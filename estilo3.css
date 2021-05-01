@@ -19,31 +19,14 @@ h3{
 	margin:50px 0px 0px 30px;
 	font-size:40px;
 }
-div {
 
-	margin:50px 10px 40px 20px;
-}
 div p{
 	background:#A569BD;
 	padding:20px 40px;
 	text-align:justify; 
 }
-img{
-	margin:20px 1%;
-	width:27%;
-	height:auto;
-	border-radius:5px;
-}
-div .img {
-	width:100%;
-	display:block;
 }
 .actual{
-	background:#fff;
-}
- img [source="actual.jpg"]{
-	width:70%;
-	float:left;
 	background:#fff;
 }
 
@@ -71,4 +54,7 @@ div a{
 	box-shadow:0px 5px 0px #01A790;
 
 
+}
+div {
+	margin:40px;
 }
